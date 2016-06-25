@@ -2,3 +2,8 @@ C:\Users\Khalid\Source\Repos\Genesis\StockEndInventory_DAL\bin\Debug\StockEndInv
 C:\Users\Khalid\Source\Repos\Genesis\StockEndInventory_DAL\bin\Debug\StockEndInventory_DAL.pdb
 C:\Users\Khalid\Source\Repos\Genesis\StockEndInventory_DAL\obj\Debug\StockEndInventory_DAL.dll
 C:\Users\Khalid\Source\Repos\Genesis\StockEndInventory_DAL\obj\Debug\StockEndInventory_DAL.pdb
+C:\Users\Muaz Ahmad\Source\Repos\Genesis\StockEndInventory_DAL\bin\Debug\StockEndInventory_DAL.dll
+C:\Users\Muaz Ahmad\Source\Repos\Genesis\StockEndInventory_DAL\bin\Debug\StockEndInventory_DAL.pdb
+C:\Users\Muaz Ahmad\Source\Repos\Genesis\StockEndInventory_DAL\obj\Debug\StockEndInventory_DAL.csprojResolveAssemblyReference.cache
+C:\Users\Muaz Ahmad\Source\Repos\Genesis\StockEndInventory_DAL\obj\Debug\StockEndInventory_DAL.dll
+C:\Users\Muaz Ahmad\Source\Repos\Genesis\StockEndInventory_DAL\obj\Debug\StockEndInventory_DAL.pdb

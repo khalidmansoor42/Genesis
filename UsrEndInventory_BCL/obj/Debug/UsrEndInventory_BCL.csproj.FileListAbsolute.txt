@@ -3,3 +3,8 @@ C:\Users\Khalid\Source\Repos\Genesis\UsrEndInventory_BCL\bin\Debug\UsrEndInvento
 C:\Users\Khalid\Source\Repos\Genesis\UsrEndInventory_BCL\obj\Debug\UsrEndInventory_BCL.csprojResolveAssemblyReference.cache
 C:\Users\Khalid\Source\Repos\Genesis\UsrEndInventory_BCL\obj\Debug\UsrEndInventory_BCL.dll
 C:\Users\Khalid\Source\Repos\Genesis\UsrEndInventory_BCL\obj\Debug\UsrEndInventory_BCL.pdb
+C:\Users\Muaz Ahmad\Source\Repos\Genesis\UsrEndInventory_BCL\bin\Debug\UsrEndInventory_BCL.dll
+C:\Users\Muaz Ahmad\Source\Repos\Genesis\UsrEndInventory_BCL\bin\Debug\UsrEndInventory_BCL.pdb
+C:\Users\Muaz Ahmad\Source\Repos\Genesis\UsrEndInventory_BCL\obj\Debug\UsrEndInventory_BCL.csprojResolveAssemblyReference.cache
+C:\Users\Muaz Ahmad\Source\Repos\Genesis\UsrEndInventory_BCL\obj\Debug\UsrEndInventory_BCL.dll
+C:\Users\Muaz Ahmad\Source\Repos\Genesis\UsrEndInventory_BCL\obj\Debug\UsrEndInventory_BCL.pdb

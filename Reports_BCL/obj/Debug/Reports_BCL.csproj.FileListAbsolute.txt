@@ -2,3 +2,7 @@ C:\Users\Khalid\Source\Repos\Genesis\Reports_BCL\bin\Debug\Reports_BCL.dll
 C:\Users\Khalid\Source\Repos\Genesis\Reports_BCL\bin\Debug\Reports_BCL.pdb
 C:\Users\Khalid\Source\Repos\Genesis\Reports_BCL\obj\Debug\Reports_BCL.dll
 C:\Users\Khalid\Source\Repos\Genesis\Reports_BCL\obj\Debug\Reports_BCL.pdb
+C:\Users\Muaz Ahmad\Source\Repos\Genesis\Reports_BCL\bin\Debug\Reports_BCL.dll
+C:\Users\Muaz Ahmad\Source\Repos\Genesis\Reports_BCL\bin\Debug\Reports_BCL.pdb
+C:\Users\Muaz Ahmad\Source\Repos\Genesis\Reports_BCL\obj\Debug\Reports_BCL.dll
+C:\Users\Muaz Ahmad\Source\Repos\Genesis\Reports_BCL\obj\Debug\Reports_BCL.pdb

@@ -52,3 +52,20 @@ C:\Users\Khalid\Source\Repos\Genesis\Inventory_UIL\obj\Debug\UsrEndInventory_UIL
 C:\Users\Khalid\Source\Repos\Genesis\Inventory_UIL\obj\Debug\Inventory_UIL.exe.licenses
 C:\Users\Khalid\Source\Repos\Genesis\Inventory_UIL\obj\Debug\Inventory_UIL.exe
 C:\Users\Khalid\Source\Repos\Genesis\Inventory_UIL\obj\Debug\Inventory_UIL.pdb
+C:\Users\Muaz Ahmad\Source\Repos\Genesis\Inventory_UIL\bin\Debug\Inventory_UIL.exe.config
+C:\Users\Muaz Ahmad\Source\Repos\Genesis\Inventory_UIL\bin\Debug\Inventory_UIL.exe
+C:\Users\Muaz Ahmad\Source\Repos\Genesis\Inventory_UIL\bin\Debug\Inventory_UIL.pdb
+C:\Users\Muaz Ahmad\Source\Repos\Genesis\Inventory_UIL\obj\Debug\UsrEndInventory_UIL.csprojResolveAssemblyReference.cache
+C:\Users\Muaz Ahmad\Source\Repos\Genesis\Inventory_UIL\obj\Debug\Inventory_UIL.Properties.Resources.resources
+C:\Users\Muaz Ahmad\Source\Repos\Genesis\Inventory_UIL\obj\Debug\Inventory_UIL.Views.addAccount.resources
+C:\Users\Muaz Ahmad\Source\Repos\Genesis\Inventory_UIL\obj\Debug\Inventory_UIL.Views.addBank.resources
+C:\Users\Muaz Ahmad\Source\Repos\Genesis\Inventory_UIL\obj\Debug\Inventory_UIL.Views.addBusiness.resources
+C:\Users\Muaz Ahmad\Source\Repos\Genesis\Inventory_UIL\obj\Debug\Inventory_UIL.Views.addEmployees.resources
+C:\Users\Muaz Ahmad\Source\Repos\Genesis\Inventory_UIL\obj\Debug\Inventory_UIL.Views.addLocations.resources
+C:\Users\Muaz Ahmad\Source\Repos\Genesis\Inventory_UIL\obj\Debug\Inventory_UIL.Views.businessCategory.resources
+C:\Users\Muaz Ahmad\Source\Repos\Genesis\Inventory_UIL\obj\Debug\Inventory_UIL.Views.orders.resources
+C:\Users\Muaz Ahmad\Source\Repos\Genesis\Inventory_UIL\obj\Debug\Inventory_UIL.Views.userRegistration.resources
+C:\Users\Muaz Ahmad\Source\Repos\Genesis\Inventory_UIL\obj\Debug\UsrEndInventory_UIL.csproj.GenerateResource.Cache
+C:\Users\Muaz Ahmad\Source\Repos\Genesis\Inventory_UIL\obj\Debug\Inventory_UIL.exe.licenses
+C:\Users\Muaz Ahmad\Source\Repos\Genesis\Inventory_UIL\obj\Debug\Inventory_UIL.exe
+C:\Users\Muaz Ahmad\Source\Repos\Genesis\Inventory_UIL\obj\Debug\Inventory_UIL.pdb

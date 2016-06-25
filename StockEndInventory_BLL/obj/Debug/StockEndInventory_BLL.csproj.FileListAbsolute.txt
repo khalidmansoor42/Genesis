@@ -2,3 +2,8 @@ C:\Users\Khalid\Source\Repos\Genesis\StockEndInventory_BLL\bin\Debug\StockEndInv
 C:\Users\Khalid\Source\Repos\Genesis\StockEndInventory_BLL\bin\Debug\StockEndInventory_BLL.pdb
 C:\Users\Khalid\Source\Repos\Genesis\StockEndInventory_BLL\obj\Debug\StockEndInventory_BLL.dll
 C:\Users\Khalid\Source\Repos\Genesis\StockEndInventory_BLL\obj\Debug\StockEndInventory_BLL.pdb
+C:\Users\Muaz Ahmad\Source\Repos\Genesis\StockEndInventory_BLL\bin\Debug\StockEndInventory_BLL.dll
+C:\Users\Muaz Ahmad\Source\Repos\Genesis\StockEndInventory_BLL\bin\Debug\StockEndInventory_BLL.pdb
+C:\Users\Muaz Ahmad\Source\Repos\Genesis\StockEndInventory_BLL\obj\Debug\StockEndInventory_BLL.csprojResolveAssemblyReference.cache
+C:\Users\Muaz Ahmad\Source\Repos\Genesis\StockEndInventory_BLL\obj\Debug\StockEndInventory_BLL.dll
+C:\Users\Muaz Ahmad\Source\Repos\Genesis\StockEndInventory_BLL\obj\Debug\StockEndInventory_BLL.pdb

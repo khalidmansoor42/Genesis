@@ -66,3 +66,21 @@ C:\Users\Khalid\Source\Repos\Genesis\Client\obj\Debug\Client.Views.loginHistory.
 C:\Users\Khalid\Source\Repos\Genesis\Client\obj\Debug\Client.Views.userProfile.resources
 C:\Users\Khalid\Source\Repos\Genesis\Client\obj\Debug\Client.csproj.GenerateResource.Cache
 C:\Users\Khalid\Source\Repos\Genesis\Client\obj\Debug\Client.exe.licenses
+C:\Users\Muaz Ahmad\Source\Repos\Genesis\Client\bin\Debug\Client.exe.config
+C:\Users\Muaz Ahmad\Source\Repos\Genesis\Client\obj\Debug\Client.exe
+C:\Users\Muaz Ahmad\Source\Repos\Genesis\Client\obj\Debug\Client.pdb
+C:\Users\Muaz Ahmad\Source\Repos\Genesis\Client\bin\Debug\Client.exe
+C:\Users\Muaz Ahmad\Source\Repos\Genesis\Client\bin\Debug\Client.pdb
+C:\Users\Muaz Ahmad\Source\Repos\Genesis\Client\obj\Debug\Client.csprojResolveAssemblyReference.cache
+C:\Users\Muaz Ahmad\Source\Repos\Genesis\Client\obj\Debug\Client.frmMain.resources
+C:\Users\Muaz Ahmad\Source\Repos\Genesis\Client\obj\Debug\Client.Properties.Resources.resources
+C:\Users\Muaz Ahmad\Source\Repos\Genesis\Client\obj\Debug\Client.Views.changePassword.resources
+C:\Users\Muaz Ahmad\Source\Repos\Genesis\Client\obj\Debug\Client.Views.forgotPassword.resources
+C:\Users\Muaz Ahmad\Source\Repos\Genesis\Client\obj\Debug\Client.Views.licenseActivation.resources
+C:\Users\Muaz Ahmad\Source\Repos\Genesis\Client\obj\Debug\Client.Views.licenseInformation.resources
+C:\Users\Muaz Ahmad\Source\Repos\Genesis\Client\obj\Debug\Client.Views.licenseRequest.resources
+C:\Users\Muaz Ahmad\Source\Repos\Genesis\Client\obj\Debug\Client.Views.login.resources
+C:\Users\Muaz Ahmad\Source\Repos\Genesis\Client\obj\Debug\Client.Views.loginHistory.resources
+C:\Users\Muaz Ahmad\Source\Repos\Genesis\Client\obj\Debug\Client.Views.userProfile.resources
+C:\Users\Muaz Ahmad\Source\Repos\Genesis\Client\obj\Debug\Client.csproj.GenerateResource.Cache
+C:\Users\Muaz Ahmad\Source\Repos\Genesis\Client\obj\Debug\Client.exe.licenses
