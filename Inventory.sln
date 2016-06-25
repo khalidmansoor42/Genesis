@@ -1,15 +1,13 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio 2013
-VisualStudioVersion = 12.0.21005.1
+# Visual Studio 14
+VisualStudioVersion = 14.0.23107.0
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Client", "Client\Client.csproj", "{3D5017F1-4D8F-4EDA-AF8E-95FB599D55A1}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UsrEndInventory_UIL", "Inventory_UIL\UsrEndInventory_UIL.csproj", "{2E140500-71A1-46A2-8005-55A86FC900FE}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StockEndInventory_UIL", "Stock_UIL\StockEndInventory_UIL.csproj", "{438C1064-7677-4D59-83AD-FD853585B246}"
-EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Reports_UIL", "Reports_UIL\Reports_UIL.csproj", "{409B8523-64F1-478E-8B2D-5DFC7F6B5787}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Reports_BLL", "Reports_BLL\Reports_BLL.csproj", "{2DE4C08A-6B8F-4E9F-B6BC-B10119E70A9E}"
 EndProject
@@ -29,6 +27,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UsrEndInventory_DAL", "UsrE
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UsrEndInventory_BCL", "UsrEndInventory_BCL\UsrEndInventory_BCL.csproj", "{36F90215-E20B-454C-BD75-D8776AF1CEB4}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Reports_UIL", "..\QuantumBridge\Reports_UIL\Reports_UIL.csproj", "{409B8523-64F1-478E-8B2D-5DFC7F6B5787}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -47,10 +47,6 @@ Global
 		{438C1064-7677-4D59-83AD-FD853585B246}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{438C1064-7677-4D59-83AD-FD853585B246}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{438C1064-7677-4D59-83AD-FD853585B246}.Release|Any CPU.Build.0 = Release|Any CPU
-		{409B8523-64F1-478E-8B2D-5DFC7F6B5787}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{409B8523-64F1-478E-8B2D-5DFC7F6B5787}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{409B8523-64F1-478E-8B2D-5DFC7F6B5787}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{409B8523-64F1-478E-8B2D-5DFC7F6B5787}.Release|Any CPU.Build.0 = Release|Any CPU
 		{2DE4C08A-6B8F-4E9F-B6BC-B10119E70A9E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{2DE4C08A-6B8F-4E9F-B6BC-B10119E70A9E}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{2DE4C08A-6B8F-4E9F-B6BC-B10119E70A9E}.Release|Any CPU.ActiveCfg = Release|Any CPU
@@ -87,6 +83,10 @@ Global
 		{36F90215-E20B-454C-BD75-D8776AF1CEB4}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{36F90215-E20B-454C-BD75-D8776AF1CEB4}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{36F90215-E20B-454C-BD75-D8776AF1CEB4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{409B8523-64F1-478E-8B2D-5DFC7F6B5787}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{409B8523-64F1-478E-8B2D-5DFC7F6B5787}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{409B8523-64F1-478E-8B2D-5DFC7F6B5787}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{409B8523-64F1-478E-8B2D-5DFC7F6B5787}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

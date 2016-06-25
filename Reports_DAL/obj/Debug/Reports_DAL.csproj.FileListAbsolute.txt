@@ -2,3 +2,7 @@ C:\Users\Khalid\Source\Repos\Genesis\Reports_DAL\bin\Debug\Reports_DAL.dll
 C:\Users\Khalid\Source\Repos\Genesis\Reports_DAL\bin\Debug\Reports_DAL.pdb
 C:\Users\Khalid\Source\Repos\Genesis\Reports_DAL\obj\Debug\Reports_DAL.dll
 C:\Users\Khalid\Source\Repos\Genesis\Reports_DAL\obj\Debug\Reports_DAL.pdb
+C:\Users\zain\Source\Repos\Genesis\Reports_DAL\bin\Debug\Reports_DAL.dll
+C:\Users\zain\Source\Repos\Genesis\Reports_DAL\bin\Debug\Reports_DAL.pdb
+C:\Users\zain\Source\Repos\Genesis\Reports_DAL\obj\Debug\Reports_DAL.dll
+C:\Users\zain\Source\Repos\Genesis\Reports_DAL\obj\Debug\Reports_DAL.pdb
