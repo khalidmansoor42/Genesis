@@ -1,0 +1,4 @@
+C:\Users\Khalid\Source\Repos\Genesis\UsrEndInventory_DAL\bin\Debug\UsrEndInventory_DAL.dll
+C:\Users\Khalid\Source\Repos\Genesis\UsrEndInventory_DAL\bin\Debug\UsrEndInventory_DAL.pdb
+C:\Users\Khalid\Source\Repos\Genesis\UsrEndInventory_DAL\obj\Debug\UsrEndInventory_DAL.dll
+C:\Users\Khalid\Source\Repos\Genesis\UsrEndInventory_DAL\obj\Debug\UsrEndInventory_DAL.pdb

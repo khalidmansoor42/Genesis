@@ -1,0 +1,5 @@
+C:\Users\Khalid\Source\Repos\Genesis\UsrEndInventory_BLL\bin\Debug\UsrEndInventory_BLL.dll
+C:\Users\Khalid\Source\Repos\Genesis\UsrEndInventory_BLL\bin\Debug\UsrEndInventory_BLL.pdb
+C:\Users\Khalid\Source\Repos\Genesis\UsrEndInventory_BLL\obj\Debug\UsrEndInventory_BLL.csprojResolveAssemblyReference.cache
+C:\Users\Khalid\Source\Repos\Genesis\UsrEndInventory_BLL\obj\Debug\UsrEndInventory_BLL.dll
+C:\Users\Khalid\Source\Repos\Genesis\UsrEndInventory_BLL\obj\Debug\UsrEndInventory_BLL.pdb
