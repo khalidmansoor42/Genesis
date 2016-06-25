@@ -66,3 +66,6 @@ C:\Users\Khalid\Source\Repos\Genesis\Client\obj\Debug\Client.Views.loginHistory.
 C:\Users\Khalid\Source\Repos\Genesis\Client\obj\Debug\Client.Views.userProfile.resources
 C:\Users\Khalid\Source\Repos\Genesis\Client\obj\Debug\Client.csproj.GenerateResource.Cache
 C:\Users\Khalid\Source\Repos\Genesis\Client\obj\Debug\Client.exe.licenses
+C:\Users\Muaz Ahmad\Source\Repos\Genesis\Client\bin\Debug\Client.exe.config
+C:\Users\Muaz Ahmad\Source\Repos\Genesis\Client\obj\Debug\Client.exe
+C:\Users\Muaz Ahmad\Source\Repos\Genesis\Client\obj\Debug\Client.pdb
