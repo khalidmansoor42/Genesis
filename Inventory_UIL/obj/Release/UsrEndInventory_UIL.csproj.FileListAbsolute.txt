@@ -1,0 +1,25 @@
+C:\Users\Khalid\Source\Repos\QuantumBridge\Inventory_UIL\bin\Release\Inventory_UIL.exe.config
+C:\Users\Khalid\Source\Repos\QuantumBridge\Inventory_UIL\bin\Release\Inventory_UIL.exe
+C:\Users\Khalid\Source\Repos\QuantumBridge\Inventory_UIL\bin\Release\Inventory_UIL.pdb
+C:\Users\Khalid\Source\Repos\QuantumBridge\Inventory_UIL\obj\Release\UsrEndInventory_UIL.csprojResolveAssemblyReference.cache
+C:\Users\Khalid\Source\Repos\QuantumBridge\Inventory_UIL\obj\Release\Inventory_UIL.Properties.Resources.resources
+C:\Users\Khalid\Source\Repos\QuantumBridge\Inventory_UIL\obj\Release\UsrEndInventory_UIL.csproj.GenerateResource.Cache
+C:\Users\Khalid\Source\Repos\QuantumBridge\Inventory_UIL\obj\Release\Inventory_UIL.exe
+C:\Users\Khalid\Source\Repos\QuantumBridge\Inventory_UIL\obj\Release\Inventory_UIL.pdb
+D:\Tech Agentx Shared\QuantumBridge\Inventory_UIL\bin\Release\Inventory_UIL.exe.config
+D:\Tech Agentx Shared\QuantumBridge\Inventory_UIL\obj\Release\Inventory_UIL.exe
+D:\Tech Agentx Shared\QuantumBridge\Inventory_UIL\obj\Release\Inventory_UIL.pdb
+D:\Tech Agentx Shared\QuantumBridge\Inventory_UIL\bin\Release\Inventory_UIL.exe
+D:\Tech Agentx Shared\QuantumBridge\Inventory_UIL\bin\Release\Inventory_UIL.pdb
+D:\Tech Agentx Shared\QuantumBridge\Inventory_UIL\obj\Release\UsrEndInventory_UIL.csprojResolveAssemblyReference.cache
+D:\Tech Agentx Shared\QuantumBridge\Inventory_UIL\obj\Release\Inventory_UIL.Properties.Resources.resources
+D:\Tech Agentx Shared\QuantumBridge\Inventory_UIL\obj\Release\Inventory_UIL.Views.addAccount.resources
+D:\Tech Agentx Shared\QuantumBridge\Inventory_UIL\obj\Release\Inventory_UIL.Views.addBank.resources
+D:\Tech Agentx Shared\QuantumBridge\Inventory_UIL\obj\Release\Inventory_UIL.Views.addBusiness.resources
+D:\Tech Agentx Shared\QuantumBridge\Inventory_UIL\obj\Release\Inventory_UIL.Views.addEmployees.resources
+D:\Tech Agentx Shared\QuantumBridge\Inventory_UIL\obj\Release\Inventory_UIL.Views.addLocations.resources
+D:\Tech Agentx Shared\QuantumBridge\Inventory_UIL\obj\Release\Inventory_UIL.Views.businessCategory.resources
+D:\Tech Agentx Shared\QuantumBridge\Inventory_UIL\obj\Release\Inventory_UIL.Views.orders.resources
+D:\Tech Agentx Shared\QuantumBridge\Inventory_UIL\obj\Release\Inventory_UIL.Views.userRegistration.resources
+D:\Tech Agentx Shared\QuantumBridge\Inventory_UIL\obj\Release\UsrEndInventory_UIL.csproj.GenerateResource.Cache
+D:\Tech Agentx Shared\QuantumBridge\Inventory_UIL\obj\Release\Inventory_UIL.exe.licenses

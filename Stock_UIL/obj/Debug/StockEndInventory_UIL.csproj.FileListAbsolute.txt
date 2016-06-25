@@ -1,0 +1,16 @@
+C:\Users\Khalid\Source\Repos\QuantumBridge\Stock_UIL\bin\Debug\Stock_UIL.exe.config
+C:\Users\Khalid\Source\Repos\QuantumBridge\Stock_UIL\bin\Debug\Stock_UIL.exe
+C:\Users\Khalid\Source\Repos\QuantumBridge\Stock_UIL\bin\Debug\MetroFramework.dll
+C:\Users\Khalid\Source\Repos\QuantumBridge\Stock_UIL\obj\Debug\StockEndInventory_UIL.csprojResolveAssemblyReference.cache
+C:\Users\Khalid\Source\Repos\QuantumBridge\Stock_UIL\obj\Debug\Stock_UIL.mainForm.resources
+C:\Users\Khalid\Source\Repos\QuantumBridge\Stock_UIL\obj\Debug\Stock_UIL.Properties.Resources.resources
+C:\Users\Khalid\Source\Repos\QuantumBridge\Stock_UIL\obj\Debug\Stock_UIL.Views.addProductBrand.resources
+C:\Users\Khalid\Source\Repos\QuantumBridge\Stock_UIL\obj\Debug\Stock_UIL.Views.addProductCategory.resources
+C:\Users\Khalid\Source\Repos\QuantumBridge\Stock_UIL\obj\Debug\StockEndInventory_UIL.csproj.GenerateResource.Cache
+C:\Users\Khalid\Source\Repos\QuantumBridge\Stock_UIL\obj\Debug\Stock_UIL.exe.licenses
+C:\Users\Khalid\Source\Repos\QuantumBridge\Stock_UIL\obj\Debug\Stock_UIL.exe
+C:\Users\Khalid\Source\Repos\QuantumBridge\Stock_UIL\obj\Debug\Stock_UIL.pdb
+C:\Users\Khalid\Source\Repos\QuantumBridge\Stock_UIL\bin\Debug\Stock_UIL.pdb
+C:\Users\Khalid\Source\Repos\QuantumBridge\Stock_UIL\obj\Debug\Stock_UIL.mainDashboard.resources
+C:\Users\Khalid\Source\Repos\QuantumBridge\Stock_UIL\obj\Debug\Stock_UIL.Views.addProduct.resources
+C:\Users\Khalid\Source\Repos\QuantumBridge\Stock_UIL\obj\Debug\Stock_UIL.Views.addStockItems.resources

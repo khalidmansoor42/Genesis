@@ -1,0 +1,53 @@
+C:\Users\zain\Documents\Visual Studio 2015\Projects\Inventory\Client\bin\Debug\Client.exe.config
+C:\Users\zain\Documents\Visual Studio 2015\Projects\Inventory\Client\bin\Debug\Client.exe
+C:\Users\zain\Documents\Visual Studio 2015\Projects\Inventory\Client\bin\Debug\Client.pdb
+C:\Users\zain\Documents\Visual Studio 2015\Projects\Inventory\Client\obj\Debug\Client.csprojResolveAssemblyReference.cache
+C:\Users\zain\Documents\Visual Studio 2015\Projects\Inventory\Client\obj\Debug\Client.Properties.Resources.resources
+C:\Users\zain\Documents\Visual Studio 2015\Projects\Inventory\Client\obj\Debug\Client.csproj.GenerateResource.Cache
+C:\Users\zain\Documents\Visual Studio 2015\Projects\Inventory\Client\obj\Debug\Client.exe
+C:\Users\zain\Documents\Visual Studio 2015\Projects\Inventory\Client\obj\Debug\Client.pdb
+C:\Users\zain\Source\Repos\QuantumBridge\Client\bin\Debug\Client.exe.config
+C:\Users\zain\Source\Repos\QuantumBridge\Client\obj\Debug\Client.exe
+C:\Users\zain\Source\Repos\QuantumBridge\Client\obj\Debug\Client.pdb
+C:\Users\Khalid\Source\Repos\QuantumBridge\Client\bin\Debug\Client.exe.config
+C:\Users\Khalid\Source\Repos\QuantumBridge\Client\obj\Debug\Client.exe
+C:\Users\Khalid\Source\Repos\QuantumBridge\Client\obj\Debug\Client.pdb
+C:\Users\Khalid\Source\Repos\QuantumBridge\Client\bin\Debug\Client.exe
+C:\Users\Khalid\Source\Repos\QuantumBridge\Client\bin\Debug\Client.pdb
+C:\Users\Khalid\Source\Repos\QuantumBridge\Client\obj\Debug\Client.csprojResolveAssemblyReference.cache
+C:\Users\Khalid\Source\Repos\QuantumBridge\Client\obj\Debug\Client.frmMain.resources
+C:\Users\Khalid\Source\Repos\QuantumBridge\Client\obj\Debug\Client.Properties.Resources.resources
+C:\Users\Khalid\Source\Repos\QuantumBridge\Client\obj\Debug\Client.csproj.GenerateResource.Cache
+C:\Users\Khalid\Source\Repos\QuantumBridge\Client\obj\Debug\Client.exe.licenses
+C:\Users\Khalid\Source\Repos\QuantumBridge\Client\obj\Debug\Client.Views.login.resources
+C:\Users\Khalid\Source\Repos\QuantumBridge\Client\obj\Debug\Client.Views.changePassword.resources
+C:\Users\Khalid\Source\Repos\QuantumBridge\Client\obj\Debug\Client.Views.userProfile.resources
+C:\Users\Khalid\Source\Repos\QuantumBridge\Client\obj\Debug\Client.Views.forgotPassword.resources
+C:\Users\Khalid\Source\Repos\QuantumBridge\Client\obj\Debug\Client.Views.licenseActivation.resources
+C:\Users\Khalid\Source\Repos\QuantumBridge\Client\obj\Debug\Client.Views.loginHistory.resources
+C:\Users\Khalid\Source\Repos\QuantumBridge\Client\obj\Debug\Client.Views.licenseInformation.resources
+C:\Users\Khalid\Source\Repos\QuantumBridge\Client\obj\Debug\Client.Views.licenseRequest.resources
+\\DESKTOP-IAI0RIM\Tech Agentx Shared\QuantumBridge\Client\bin\Debug\Client.exe.config
+\\DESKTOP-IAI0RIM\Tech Agentx Shared\QuantumBridge\Client\obj\Debug\Client.exe
+\\DESKTOP-IAI0RIM\Tech Agentx Shared\QuantumBridge\Client\obj\Debug\Client.pdb
+D:\Tech Agentx Shared\QuantumBridge\Client\bin\Debug\Client.exe.config
+D:\Tech Agentx Shared\QuantumBridge\Client\obj\Debug\Client.exe
+D:\Tech Agentx Shared\QuantumBridge\Client\obj\Debug\Client.pdb
+D:\Tech Agentx Shared\QuantumBridge\Client\bin\Debug\Client.exe
+D:\Tech Agentx Shared\QuantumBridge\Client\bin\Debug\Client.pdb
+D:\Tech Agentx Shared\QuantumBridge\Client\obj\Debug\Client.csprojResolveAssemblyReference.cache
+D:\Tech Agentx Shared\QuantumBridge\Client\obj\Debug\Client.frmMain.resources
+D:\Tech Agentx Shared\QuantumBridge\Client\obj\Debug\Client.Properties.Resources.resources
+D:\Tech Agentx Shared\QuantumBridge\Client\obj\Debug\Client.Views.changePassword.resources
+D:\Tech Agentx Shared\QuantumBridge\Client\obj\Debug\Client.Views.forgotPassword.resources
+D:\Tech Agentx Shared\QuantumBridge\Client\obj\Debug\Client.Views.licenseActivation.resources
+D:\Tech Agentx Shared\QuantumBridge\Client\obj\Debug\Client.Views.licenseInformation.resources
+D:\Tech Agentx Shared\QuantumBridge\Client\obj\Debug\Client.Views.licenseRequest.resources
+D:\Tech Agentx Shared\QuantumBridge\Client\obj\Debug\Client.Views.login.resources
+D:\Tech Agentx Shared\QuantumBridge\Client\obj\Debug\Client.Views.loginHistory.resources
+D:\Tech Agentx Shared\QuantumBridge\Client\obj\Debug\Client.Views.userProfile.resources
+D:\Tech Agentx Shared\QuantumBridge\Client\obj\Debug\Client.csproj.GenerateResource.Cache
+D:\Tech Agentx Shared\QuantumBridge\Client\obj\Debug\Client.exe.licenses
+C:\Users\Khalid\Source\Repos\Genesis\Client\bin\Debug\Client.exe.config
+C:\Users\Khalid\Source\Repos\Genesis\Client\obj\Debug\Client.exe
+C:\Users\Khalid\Source\Repos\Genesis\Client\obj\Debug\Client.pdb

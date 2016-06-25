@@ -1,0 +1,7 @@
+C:\Users\Khalid\Source\Repos\QuantumBridge\Stock_BCL\bin\Debug\Stock_BCL.exe.config
+C:\Users\Khalid\Source\Repos\QuantumBridge\Stock_BCL\bin\Debug\Stock_BCL.exe
+C:\Users\Khalid\Source\Repos\QuantumBridge\Stock_BCL\bin\Debug\Stock_BCL.pdb
+C:\Users\Khalid\Source\Repos\QuantumBridge\Stock_BCL\obj\Debug\Stock_BCL.Properties.Resources.resources
+C:\Users\Khalid\Source\Repos\QuantumBridge\Stock_BCL\obj\Debug\StockEndInventory_BCL.csproj.GenerateResource.Cache
+C:\Users\Khalid\Source\Repos\QuantumBridge\Stock_BCL\obj\Debug\Stock_BCL.exe
+C:\Users\Khalid\Source\Repos\QuantumBridge\Stock_BCL\obj\Debug\Stock_BCL.pdb

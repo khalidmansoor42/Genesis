@@ -1,0 +1,8 @@
+C:\Users\Khalid\Source\Repos\QuantumBridge\Inventory_BLL\bin\Debug\Inventory_BLL.exe.config
+C:\Users\Khalid\Source\Repos\QuantumBridge\Inventory_BLL\bin\Debug\Inventory_BLL.exe
+C:\Users\Khalid\Source\Repos\QuantumBridge\Inventory_BLL\bin\Debug\Inventory_BLL.pdb
+C:\Users\Khalid\Source\Repos\QuantumBridge\Inventory_BLL\obj\Debug\UsrEndInventory_BLL.csprojResolveAssemblyReference.cache
+C:\Users\Khalid\Source\Repos\QuantumBridge\Inventory_BLL\obj\Debug\Inventory_BLL.Properties.Resources.resources
+C:\Users\Khalid\Source\Repos\QuantumBridge\Inventory_BLL\obj\Debug\UsrEndInventory_BLL.csproj.GenerateResource.Cache
+C:\Users\Khalid\Source\Repos\QuantumBridge\Inventory_BLL\obj\Debug\Inventory_BLL.exe
+C:\Users\Khalid\Source\Repos\QuantumBridge\Inventory_BLL\obj\Debug\Inventory_BLL.pdb

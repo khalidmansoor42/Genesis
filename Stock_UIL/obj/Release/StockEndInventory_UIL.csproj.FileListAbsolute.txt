@@ -1,0 +1,41 @@
+C:\Users\Khalid\Source\Repos\QuantumBridge\Stock_UIL\bin\Release\Stock_UIL.exe.config
+C:\Users\Khalid\Source\Repos\QuantumBridge\Stock_UIL\bin\Release\Stock_UIL.exe
+C:\Users\Khalid\Source\Repos\QuantumBridge\Stock_UIL\bin\Release\Stock_UIL.pdb
+C:\Users\Khalid\Source\Repos\QuantumBridge\Stock_UIL\bin\Release\MetroFramework.dll
+C:\Users\Khalid\Source\Repos\QuantumBridge\Stock_UIL\obj\Release\StockEndInventory_UIL.csprojResolveAssemblyReference.cache
+C:\Users\Khalid\Source\Repos\QuantumBridge\Stock_UIL\obj\Release\Stock_UIL.mainForm.resources
+C:\Users\Khalid\Source\Repos\QuantumBridge\Stock_UIL\obj\Release\Stock_UIL.Properties.Resources.resources
+C:\Users\Khalid\Source\Repos\QuantumBridge\Stock_UIL\obj\Release\Stock_UIL.Views.addAccount.resources
+C:\Users\Khalid\Source\Repos\QuantumBridge\Stock_UIL\obj\Release\Stock_UIL.Views.addBank.resources
+C:\Users\Khalid\Source\Repos\QuantumBridge\Stock_UIL\obj\Release\Stock_UIL.Views.addBusiness.resources
+C:\Users\Khalid\Source\Repos\QuantumBridge\Stock_UIL\obj\Release\Stock_UIL.Views.addLocations.resources
+C:\Users\Khalid\Source\Repos\QuantumBridge\Stock_UIL\obj\Release\Stock_UIL.Views.addProductBrand.resources
+C:\Users\Khalid\Source\Repos\QuantumBridge\Stock_UIL\obj\Release\Stock_UIL.Views.addProductCategory.resources
+C:\Users\Khalid\Source\Repos\QuantumBridge\Stock_UIL\obj\Release\Stock_UIL.Views.businessCategory.resources
+C:\Users\Khalid\Source\Repos\QuantumBridge\Stock_UIL\obj\Release\Stock_UIL.Views.forgotPassword.resources
+C:\Users\Khalid\Source\Repos\QuantumBridge\Stock_UIL\obj\Release\Stock_UIL.Views.login.resources
+C:\Users\Khalid\Source\Repos\QuantumBridge\Stock_UIL\obj\Release\Stock_UIL.Views.userRegistration.resources
+C:\Users\Khalid\Source\Repos\QuantumBridge\Stock_UIL\obj\Release\StockEndInventory_UIL.csproj.GenerateResource.Cache
+C:\Users\Khalid\Source\Repos\QuantumBridge\Stock_UIL\obj\Release\Stock_UIL.exe.licenses
+C:\Users\Khalid\Source\Repos\QuantumBridge\Stock_UIL\obj\Release\Stock_UIL.exe
+C:\Users\Khalid\Source\Repos\QuantumBridge\Stock_UIL\obj\Release\Stock_UIL.pdb
+C:\Users\Khalid\Source\Repos\QuantumBridge\Stock_UIL\obj\Release\Stock_UIL.dashboard.resources
+C:\Users\Khalid\Source\Repos\QuantumBridge\Stock_UIL\obj\Release\Stock_UIL.Views.addProduct.resources
+C:\Users\Khalid\Source\Repos\QuantumBridge\Stock_UIL\obj\Release\Stock_UIL.Views.addStockItems.resources
+C:\Users\Khalid\Source\Repos\QuantumBridge\Stock_UIL\obj\Release\Stock_UIL.mainDashboard.resources
+C:\Users\Khalid\Source\Repos\QuantumBridge\Stock_UIL\obj\Release\Stock_UIL.Views.addEmployees.resources
+D:\Tech Agentx Shared\QuantumBridge\Stock_UIL\bin\Release\Stock_UIL.exe.config
+D:\Tech Agentx Shared\QuantumBridge\Stock_UIL\obj\Release\Stock_UIL.exe
+D:\Tech Agentx Shared\QuantumBridge\Stock_UIL\obj\Release\Stock_UIL.pdb
+D:\Tech Agentx Shared\QuantumBridge\Stock_UIL\bin\Release\Stock_UIL.exe
+D:\Tech Agentx Shared\QuantumBridge\Stock_UIL\bin\Release\Stock_UIL.pdb
+D:\Tech Agentx Shared\QuantumBridge\Stock_UIL\obj\Release\StockEndInventory_UIL.csprojResolveAssemblyReference.cache
+D:\Tech Agentx Shared\QuantumBridge\Stock_UIL\obj\Release\Stock_UIL.mainDashboard.resources
+D:\Tech Agentx Shared\QuantumBridge\Stock_UIL\obj\Release\Stock_UIL.mainForm.resources
+D:\Tech Agentx Shared\QuantumBridge\Stock_UIL\obj\Release\Stock_UIL.Properties.Resources.resources
+D:\Tech Agentx Shared\QuantumBridge\Stock_UIL\obj\Release\Stock_UIL.Views.addProduct.resources
+D:\Tech Agentx Shared\QuantumBridge\Stock_UIL\obj\Release\Stock_UIL.Views.addProductBrand.resources
+D:\Tech Agentx Shared\QuantumBridge\Stock_UIL\obj\Release\Stock_UIL.Views.addProductCategory.resources
+D:\Tech Agentx Shared\QuantumBridge\Stock_UIL\obj\Release\Stock_UIL.Views.addStockItems.resources
+D:\Tech Agentx Shared\QuantumBridge\Stock_UIL\obj\Release\StockEndInventory_UIL.csproj.GenerateResource.Cache
+D:\Tech Agentx Shared\QuantumBridge\Stock_UIL\obj\Release\Stock_UIL.exe.licenses

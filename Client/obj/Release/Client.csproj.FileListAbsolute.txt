@@ -1,0 +1,34 @@
+C:\Users\Khalid\Source\Repos\QuantumBridge\Client\bin\Release\Client.exe.config
+C:\Users\Khalid\Source\Repos\QuantumBridge\Client\bin\Release\Client.exe
+C:\Users\Khalid\Source\Repos\QuantumBridge\Client\bin\Release\Client.pdb
+C:\Users\Khalid\Source\Repos\QuantumBridge\Client\obj\Release\Client.csprojResolveAssemblyReference.cache
+C:\Users\Khalid\Source\Repos\QuantumBridge\Client\obj\Release\Client.frmMain.resources
+C:\Users\Khalid\Source\Repos\QuantumBridge\Client\obj\Release\Client.Properties.Resources.resources
+C:\Users\Khalid\Source\Repos\QuantumBridge\Client\obj\Release\Client.csproj.GenerateResource.Cache
+C:\Users\Khalid\Source\Repos\QuantumBridge\Client\obj\Release\Client.exe.licenses
+C:\Users\Khalid\Source\Repos\QuantumBridge\Client\obj\Release\Client.exe
+C:\Users\Khalid\Source\Repos\QuantumBridge\Client\obj\Release\Client.pdb
+C:\Users\Khalid\Source\Repos\QuantumBridge\Client\obj\Release\Client.Views.changePassword.resources
+C:\Users\Khalid\Source\Repos\QuantumBridge\Client\obj\Release\Client.Views.forgotPassword.resources
+C:\Users\Khalid\Source\Repos\QuantumBridge\Client\obj\Release\Client.Views.licenseActivation.resources
+C:\Users\Khalid\Source\Repos\QuantumBridge\Client\obj\Release\Client.Views.login.resources
+C:\Users\Khalid\Source\Repos\QuantumBridge\Client\obj\Release\Client.Views.loginHistory.resources
+C:\Users\Khalid\Source\Repos\QuantumBridge\Client\obj\Release\Client.Views.userProfile.resources
+D:\Tech Agentx Shared\QuantumBridge\Client\bin\Release\Client.exe.config
+D:\Tech Agentx Shared\QuantumBridge\Client\obj\Release\Client.exe
+D:\Tech Agentx Shared\QuantumBridge\Client\obj\Release\Client.pdb
+D:\Tech Agentx Shared\QuantumBridge\Client\bin\Release\Client.exe
+D:\Tech Agentx Shared\QuantumBridge\Client\bin\Release\Client.pdb
+D:\Tech Agentx Shared\QuantumBridge\Client\obj\Release\Client.csprojResolveAssemblyReference.cache
+D:\Tech Agentx Shared\QuantumBridge\Client\obj\Release\Client.frmMain.resources
+D:\Tech Agentx Shared\QuantumBridge\Client\obj\Release\Client.Properties.Resources.resources
+D:\Tech Agentx Shared\QuantumBridge\Client\obj\Release\Client.Views.changePassword.resources
+D:\Tech Agentx Shared\QuantumBridge\Client\obj\Release\Client.Views.forgotPassword.resources
+D:\Tech Agentx Shared\QuantumBridge\Client\obj\Release\Client.Views.licenseActivation.resources
+D:\Tech Agentx Shared\QuantumBridge\Client\obj\Release\Client.Views.licenseInformation.resources
+D:\Tech Agentx Shared\QuantumBridge\Client\obj\Release\Client.Views.licenseRequest.resources
+D:\Tech Agentx Shared\QuantumBridge\Client\obj\Release\Client.Views.login.resources
+D:\Tech Agentx Shared\QuantumBridge\Client\obj\Release\Client.Views.loginHistory.resources
+D:\Tech Agentx Shared\QuantumBridge\Client\obj\Release\Client.Views.userProfile.resources
+D:\Tech Agentx Shared\QuantumBridge\Client\obj\Release\Client.csproj.GenerateResource.Cache
+D:\Tech Agentx Shared\QuantumBridge\Client\obj\Release\Client.exe.licenses

@@ -1,0 +1,7 @@
+C:\Users\Khalid\Source\Repos\QuantumBridge\Reports_UIL\bin\Release\Reports_UIL.exe.config
+C:\Users\Khalid\Source\Repos\QuantumBridge\Reports_UIL\bin\Release\Reports_UIL.exe
+C:\Users\Khalid\Source\Repos\QuantumBridge\Reports_UIL\bin\Release\Reports_UIL.pdb
+C:\Users\Khalid\Source\Repos\QuantumBridge\Reports_UIL\obj\Release\Reports_UIL.Properties.Resources.resources
+C:\Users\Khalid\Source\Repos\QuantumBridge\Reports_UIL\obj\Release\Reports_UIL.csproj.GenerateResource.Cache
+C:\Users\Khalid\Source\Repos\QuantumBridge\Reports_UIL\obj\Release\Reports_UIL.exe
+C:\Users\Khalid\Source\Repos\QuantumBridge\Reports_UIL\obj\Release\Reports_UIL.pdb

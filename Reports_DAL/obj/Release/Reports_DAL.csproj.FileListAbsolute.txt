@@ -1,0 +1,7 @@
+C:\Users\Khalid\Source\Repos\QuantumBridge\Reports_DAL\bin\Release\Reports_DAL.exe.config
+C:\Users\Khalid\Source\Repos\QuantumBridge\Reports_DAL\bin\Release\Reports_DAL.exe
+C:\Users\Khalid\Source\Repos\QuantumBridge\Reports_DAL\bin\Release\Reports_DAL.pdb
+C:\Users\Khalid\Source\Repos\QuantumBridge\Reports_DAL\obj\Release\Reports_DAL.Properties.Resources.resources
+C:\Users\Khalid\Source\Repos\QuantumBridge\Reports_DAL\obj\Release\Reports_DAL.csproj.GenerateResource.Cache
+C:\Users\Khalid\Source\Repos\QuantumBridge\Reports_DAL\obj\Release\Reports_DAL.exe
+C:\Users\Khalid\Source\Repos\QuantumBridge\Reports_DAL\obj\Release\Reports_DAL.pdb
