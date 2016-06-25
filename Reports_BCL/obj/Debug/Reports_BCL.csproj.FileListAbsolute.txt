@@ -9,3 +9,4 @@ C:\Users\zain\Source\Repos\Genesis\Reports_BCL\bin\Debug\Reports_DAL.pdb
 C:\Users\zain\Source\Repos\Genesis\Reports_BCL\obj\Debug\Reports_BCL.csprojResolveAssemblyReference.cache
 C:\Users\zain\Source\Repos\Genesis\Reports_BCL\obj\Debug\Reports_BCL.dll
 C:\Users\zain\Source\Repos\Genesis\Reports_BCL\obj\Debug\Reports_BCL.pdb
+C:\Users\Khalid\Source\Repos\Genesis\Reports_BCL\obj\Debug\Reports_BCL.csprojResolveAssemblyReference.cache

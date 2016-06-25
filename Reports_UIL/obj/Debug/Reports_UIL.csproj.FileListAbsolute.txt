@@ -15,3 +15,4 @@ C:\Users\zain\Source\Repos\Genesis\Reports_UIL\obj\Debug\Reports_UIL.exe
 C:\Users\zain\Source\Repos\Genesis\Reports_UIL\obj\Debug\Reports_UIL.pdb
 C:\Users\zain\Source\Repos\Genesis\Reports_UIL\obj\Debug\Reports_UIL.RptUsrCtl.resources
 C:\Users\zain\Source\Repos\Genesis\Reports_UIL\obj\Debug\Reports_UIL.Testing.resources
+C:\Users\Khalid\Source\Repos\Genesis\Reports_UIL\obj\Debug\Reports_UIL.csprojResolveAssemblyReference.cache
