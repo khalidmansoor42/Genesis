@@ -1,7 +1,0 @@
-C:\Users\Khalid\Source\Repos\QuantumBridge\Stock_BLL\bin\Debug\Stock_BLL.exe.config
-C:\Users\Khalid\Source\Repos\QuantumBridge\Stock_BLL\bin\Debug\Stock_BLL.exe
-C:\Users\Khalid\Source\Repos\QuantumBridge\Stock_BLL\bin\Debug\Stock_BLL.pdb
-C:\Users\Khalid\Source\Repos\QuantumBridge\Stock_BLL\obj\Debug\Stock_BLL.Properties.Resources.resources
-C:\Users\Khalid\Source\Repos\QuantumBridge\Stock_BLL\obj\Debug\StockEndInventory_BLL.csproj.GenerateResource.Cache
-C:\Users\Khalid\Source\Repos\QuantumBridge\Stock_BLL\obj\Debug\Stock_BLL.exe
-C:\Users\Khalid\Source\Repos\QuantumBridge\Stock_BLL\obj\Debug\Stock_BLL.pdb

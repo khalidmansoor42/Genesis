@@ -1,7 +1,0 @@
-C:\Users\Khalid\Source\Repos\QuantumBridge\Reports_BLL\bin\Release\Reports_BLL.exe.config
-C:\Users\Khalid\Source\Repos\QuantumBridge\Reports_BLL\bin\Release\Reports_BLL.exe
-C:\Users\Khalid\Source\Repos\QuantumBridge\Reports_BLL\bin\Release\Reports_BLL.pdb
-C:\Users\Khalid\Source\Repos\QuantumBridge\Reports_BLL\obj\Release\Reports_BLL.Properties.Resources.resources
-C:\Users\Khalid\Source\Repos\QuantumBridge\Reports_BLL\obj\Release\Reports_BLL.csproj.GenerateResource.Cache
-C:\Users\Khalid\Source\Repos\QuantumBridge\Reports_BLL\obj\Release\Reports_BLL.exe
-C:\Users\Khalid\Source\Repos\QuantumBridge\Reports_BLL\obj\Release\Reports_BLL.pdb

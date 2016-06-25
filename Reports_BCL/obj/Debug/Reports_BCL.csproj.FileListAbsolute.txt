@@ -1,7 +1,4 @@
-C:\Users\Khalid\Source\Repos\QuantumBridge\Reports_BCL\bin\Debug\Reports_BCL.exe.config
-C:\Users\Khalid\Source\Repos\QuantumBridge\Reports_BCL\bin\Debug\Reports_BCL.exe
-C:\Users\Khalid\Source\Repos\QuantumBridge\Reports_BCL\bin\Debug\Reports_BCL.pdb
-C:\Users\Khalid\Source\Repos\QuantumBridge\Reports_BCL\obj\Debug\Reports_BCL.Properties.Resources.resources
-C:\Users\Khalid\Source\Repos\QuantumBridge\Reports_BCL\obj\Debug\Reports_BCL.csproj.GenerateResource.Cache
-C:\Users\Khalid\Source\Repos\QuantumBridge\Reports_BCL\obj\Debug\Reports_BCL.exe
-C:\Users\Khalid\Source\Repos\QuantumBridge\Reports_BCL\obj\Debug\Reports_BCL.pdb
+C:\Users\Khalid\Source\Repos\Genesis\Reports_BCL\bin\Debug\Reports_BCL.dll
+C:\Users\Khalid\Source\Repos\Genesis\Reports_BCL\bin\Debug\Reports_BCL.pdb
+C:\Users\Khalid\Source\Repos\Genesis\Reports_BCL\obj\Debug\Reports_BCL.dll
+C:\Users\Khalid\Source\Repos\Genesis\Reports_BCL\obj\Debug\Reports_BCL.pdb

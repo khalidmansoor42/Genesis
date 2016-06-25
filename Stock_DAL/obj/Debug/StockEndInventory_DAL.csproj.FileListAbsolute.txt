@@ -1,7 +1,0 @@
-C:\Users\Khalid\Source\Repos\QuantumBridge\Stock_DAL\bin\Debug\Stock_DAL.exe.config
-C:\Users\Khalid\Source\Repos\QuantumBridge\Stock_DAL\bin\Debug\Stock_DAL.exe
-C:\Users\Khalid\Source\Repos\QuantumBridge\Stock_DAL\bin\Debug\Stock_DAL.pdb
-C:\Users\Khalid\Source\Repos\QuantumBridge\Stock_DAL\obj\Debug\Stock_DAL.Properties.Resources.resources
-C:\Users\Khalid\Source\Repos\QuantumBridge\Stock_DAL\obj\Debug\StockEndInventory_DAL.csproj.GenerateResource.Cache
-C:\Users\Khalid\Source\Repos\QuantumBridge\Stock_DAL\obj\Debug\Stock_DAL.exe
-C:\Users\Khalid\Source\Repos\QuantumBridge\Stock_DAL\obj\Debug\Stock_DAL.pdb

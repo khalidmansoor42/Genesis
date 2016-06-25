@@ -1,7 +1,5 @@
-C:\Users\Khalid\Source\Repos\QuantumBridge\Reports_BLL\bin\Debug\Reports_BLL.exe.config
-C:\Users\Khalid\Source\Repos\QuantumBridge\Reports_BLL\bin\Debug\Reports_BLL.exe
-C:\Users\Khalid\Source\Repos\QuantumBridge\Reports_BLL\bin\Debug\Reports_BLL.pdb
-C:\Users\Khalid\Source\Repos\QuantumBridge\Reports_BLL\obj\Debug\Reports_BLL.Properties.Resources.resources
-C:\Users\Khalid\Source\Repos\QuantumBridge\Reports_BLL\obj\Debug\Reports_BLL.csproj.GenerateResource.Cache
-C:\Users\Khalid\Source\Repos\QuantumBridge\Reports_BLL\obj\Debug\Reports_BLL.exe
-C:\Users\Khalid\Source\Repos\QuantumBridge\Reports_BLL\obj\Debug\Reports_BLL.pdb
+C:\Users\Khalid\Source\Repos\Genesis\Reports_BLL\bin\Debug\Reports_BLL.dll
+C:\Users\Khalid\Source\Repos\Genesis\Reports_BLL\bin\Debug\Reports_BLL.pdb
+C:\Users\Khalid\Source\Repos\Genesis\Reports_BLL\obj\Debug\Reports_BLL.csprojResolveAssemblyReference.cache
+C:\Users\Khalid\Source\Repos\Genesis\Reports_BLL\obj\Debug\Reports_BLL.dll
+C:\Users\Khalid\Source\Repos\Genesis\Reports_BLL\obj\Debug\Reports_BLL.pdb

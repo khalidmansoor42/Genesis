@@ -1,8 +1,0 @@
-C:\Users\Khalid\Source\Repos\QuantumBridge\Inventory_DAL\bin\Release\Inventory_DAL.exe.config
-C:\Users\Khalid\Source\Repos\QuantumBridge\Inventory_DAL\bin\Release\Inventory_DAL.exe
-C:\Users\Khalid\Source\Repos\QuantumBridge\Inventory_DAL\bin\Release\Inventory_DAL.pdb
-C:\Users\Khalid\Source\Repos\QuantumBridge\Inventory_DAL\obj\Release\UsrEndInventory_DAL.csprojResolveAssemblyReference.cache
-C:\Users\Khalid\Source\Repos\QuantumBridge\Inventory_DAL\obj\Release\Inventory_DAL.Properties.Resources.resources
-C:\Users\Khalid\Source\Repos\QuantumBridge\Inventory_DAL\obj\Release\UsrEndInventory_DAL.csproj.GenerateResource.Cache
-C:\Users\Khalid\Source\Repos\QuantumBridge\Inventory_DAL\obj\Release\Inventory_DAL.exe
-C:\Users\Khalid\Source\Repos\QuantumBridge\Inventory_DAL\obj\Release\Inventory_DAL.pdb
